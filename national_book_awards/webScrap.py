@@ -1,4 +1,4 @@
-import scrapy
+Wimport scrapy
 import csv
 from scrapy.crawler import CrawlerProcess
 
